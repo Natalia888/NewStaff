@@ -53,24 +53,7 @@ div.topmenu a:hover{
 	color: #fff;
 }
 div.afisha{
-	padding: 50px 50px 50px 50px; margin-top: 20px; 
-	background: linear-gradient(#FFA07A); left top repeat-x;	
-	 background-color: #f2f2f2;
-	 background-size: 600px 10px;}
-
-	div.afisha img{
-		float: none;/*обтекание текстом верхней картинки*/
-	}
-	div.afisha h3{
-		font-size: 19px; padding: 60px 60px 60px 60px; font-weight: normal; text-align: center; color: #830000; 
-	}
-	div.afisha p{ text-align: center;}
-	div.afisha a{font-size: 20px; color: #2F4F4F; font-weight: bold;   
-	background: #708090; border: 1px solid #DDA0DD; padding: 5px 15px;
-	border-radius: 3px; box-shadow: 2px 2px 7px -1px #777; text-shadow: 0px 0px 3px #777; 
-	}	
-	div.afisha a:hover{background: #E1660D; border: 1px solid #800000; text-shadow: 0px 0px 3px #777; }
-
+	
 	/*главное меню*/
 	div.menu{
 		background: #E1660D; border: 1px solid #FF4500; border-left: none; border-right: none; 	}
